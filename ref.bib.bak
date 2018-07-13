@@ -1,0 +1,1367 @@
+% Encoding: UTF-8
+
+@book{martens2016,
+	title={Transport justice: Designing fair transportation systems},
+	author={Martens, Karel},
+	year={2016},
+	publisher={Routledge}
+}
+
+@article{yiftachel1989,
+	title={Towards a new typology of urban planning theories},
+	author={Yiftachel, Oren},
+	journal={Environment and Planning B: Planning and Design},
+	volume={16},
+	number={1},
+	pages={23--39},
+	year={1989},
+	publisher={SAGE Publications Sage UK: London, England}
+}
+
+@Book{anselin1988,
+  title     = {Spatial econometrics: methods and models},
+  publisher = {Kluwer Academic Publishers},
+  year      = {1988},
+  author    = {Anselin, Luc},
+}
+
+@Article{anselin1996,
+  author    = {Anselin, Luc and Bera, Anil K and Florax, Raymond and Yoon, Mann J},
+  title     = {Simple diagnostic tests for spatial dependence},
+  journal   = {Regional science and urban economics},
+  year      = {1996},
+  volume    = {26},
+  number    = {1},
+  pages     = {77--104},
+  publisher = {Elsevier},
+}
+
+@Book{cliff1973,
+  title     = {Spatial autocorrelation},
+  publisher = {Pion London},
+  year      = {1973},
+  author    = {Cliff, Andrew David and Ord, J Keith},
+  volume    = {5},
+}
+
+@Article{farber2017,
+  author    = {Farber, Steven and Fu, Liwei},
+  title     = {Dynamic public transit accessibility using travel time cubes: Comparing the effects of infrastructure (dis) investments over time},
+  journal   = {Computers, Environment and Urban Systems},
+  year      = {2017},
+  volume    = {62},
+  pages     = {30--40},
+  publisher = {Elsevier},
+}
+
+@Article{farber2014b,
+  author    = {Farber, Steven and Morang, Melinda Z and Widener, Michael J},
+  title     = {Temporal variability in transit-based accessibility to supermarkets},
+  journal   = {Applied Geography},
+  year      = {2014},
+  volume    = {53},
+  pages     = {149--159},
+  publisher = {Elsevier},
+}
+
+@Article{geurs2004,
+  author    = {Geurs, Karst T and Van Wee, Bert},
+  title     = {Accessibility evaluation of land-use and transport strategies: review and research directions},
+  journal   = {Journal of Transport geography},
+  year      = {2004},
+  volume    = {12},
+  number    = {2},
+  pages     = {127--140},
+  publisher = {Elsevier},
+}
+
+@Article{hagerstraand1970,
+  author    = {H{\"a}gerstraand, Torsten},
+  title     = {What about people in regional science?},
+  journal   = {Papers in regional science},
+  year      = {1970},
+  volume    = {24},
+  number    = {1},
+  pages     = {7--24},
+  publisher = {Wiley Online Library},
+}
+
+@Article{hanson1982,
+  author    = {Hanson, Susan},
+  title     = {The determinants of daily travel-activity patterns: relative location and sociodemographic factors},
+  journal   = {Urban Geography},
+  year      = {1982},
+  volume    = {3},
+  number    = {3},
+  pages     = {179--202},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{hanson1986,
+  author  = {Hanson, Susan and Schwab, Margo},
+  title   = {Describing disaggregate flows: individual and household activity patterns},
+  journal = {GEOGRAPHY OF URBAN TRANSPORTATION},
+  year    = {1986},
+}
+
+@Article{lei2010,
+  author    = {Lei, Ting L and Church, Richard L},
+  title     = {Mapping transit-based access: integrating GIS, routes and schedules},
+  journal   = {International Journal of Geographical Information Science},
+  year      = {2010},
+  volume    = {24},
+  number    = {2},
+  pages     = {283--304},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{lucas2012,
+  author    = {Lucas, Karen},
+  title     = {Transport and social exclusion: Where are we now?},
+  journal   = {Transport policy},
+  year      = {2012},
+  volume    = {20},
+  pages     = {105--113},
+  publisher = {Elsevier},
+}
+
+@Article{miller1999a,
+  author    = {Miller, Harvey J},
+  title     = {Measuring space-time accessibility benefits within transportation networks: basic theory and computational procedures},
+  journal   = {Geographical analysis},
+  year      = {1999},
+  volume    = {31},
+  number    = {1},
+  pages     = {1--26},
+  publisher = {Wiley Online Library},
+}
+
+@Article{miller1991,
+  author    = {Miller, Harvey J},
+  title     = {Modelling accessibility using space-time prism concepts within geographical information systems},
+  journal   = {International Journal of Geographical Information System},
+  year      = {1991},
+  volume    = {5},
+  number    = {3},
+  pages     = {287--301},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{owen2015,
+  author    = {Owen, Andrew and Levinson, David M},
+  title     = {Modeling the commute mode share of transit using continuous accessibility to jobs},
+  journal   = {Transportation Research Part A: Policy and Practice},
+  year      = {2015},
+  volume    = {74},
+  pages     = {110--122},
+  publisher = {Elsevier},
+}
+
+@Article{grengs2010,
+  author    = {Grengs, Joe and Levine, Jonathan and Shen, Qing and Shen, Qingyun},
+  title     = {Intermetropolitan comparison of transportation accessibility: Sorting out mobility and proximity in San Francisco and Washington, DC},
+  journal   = {Journal of Planning Education and Research},
+  year      = {2010},
+  volume    = {29},
+  number    = {4},
+  pages     = {427--443},
+  publisher = {SAGE Publications Sage CA: Los Angeles, CA},
+}
+
+@Article{boisjoly2017,
+  author    = {Boisjoly, Genevi{\`e}ve and El-Geneidy, Ahmed M},
+  title     = {How to get there? A critical assessment of accessibility objectives and indicators in metropolitan transportation plans},
+  journal   = {Transport Policy},
+  year      = {2017},
+  volume    = {55},
+  pages     = {38--50},
+  publisher = {Elsevier},
+}
+
+@Article{foth2013,
+  author    = {Foth, Nicole and Manaugh, Kevin and El-Geneidy, Ahmed M},
+  title     = {Towards equitable transit: examining transit accessibility and social need in Toronto, Canada, 1996--2006},
+  journal   = {Journal of transport geography},
+  year      = {2013},
+  volume    = {29},
+  pages     = {1--10},
+  publisher = {Elsevier},
+}
+
+@Article{el2006access,
+  author = {El-Geneidy, Ahmed M and Levinson, David M},
+  title  = {Access to destinations: Development of accessibility measures},
+  year   = {2006},
+}
+
+@Article{elgen2016mtl,
+  author    = {El-Geneidy, Ahmed and Levinson, David and Diab, Ehab and Boisjoly, Genevieve and Verbich, David and Loong, Charis},
+  title     = {The cost of equity: Assessing transit accessibility and social disparity using total travel cost},
+  journal   = {Transportation Research Part A: Policy and Practice},
+  year      = {2016},
+  volume    = {91},
+  pages     = {302--316},
+  publisher = {Elsevier},
+}
+
+@Article{bania2008,
+  author    = {Bania, Neil and Leete, Laura and Coulton, Claudia},
+  title     = {Job access, employment and earnings: Outcomes for welfare leavers in a US urban labour market},
+  journal   = {Urban Studies},
+  year      = {2008},
+  volume    = {45},
+  number    = {11},
+  pages     = {2179--2202},
+  publisher = {SAGE Publications Sage UK: London, England},
+}
+
+@Article{fan2012,
+  author    = {Fan, Yingling and Guthrie, Andrew E and Levinson, David},
+  title     = {Impact of light rail implementation on labor market accessibility: A transportation equity perspective},
+  journal   = {The Journal of Transport and Land Use},
+  year      = {2012},
+  volume    = {5},
+  number    = {3},
+  pages     = {28--39},
+  publisher = {Center for Transportation Studies, University of Minnesota},
+}
+
+@Article{ong1998,
+  author    = {Ong, Paul and Blumenberg, Evelyn},
+  title     = {Job access, commute and travel burden among welfare recipients},
+  journal   = {Urban Studies},
+  year      = {1998},
+  volume    = {35},
+  number    = {1},
+  pages     = {77--93},
+  publisher = {Sage Publications Sage UK: London, England},
+}
+
+@Article{handy1997,
+  author    = {Handy, Susan L and Niemeier, Debbie A},
+  title     = {Measuring accessibility: an exploration of issues and alternatives},
+  journal   = {Environment and planning A},
+  year      = {1997},
+  volume    = {29},
+  number    = {7},
+  pages     = {1175--1194},
+  publisher = {SAGE Publications Sage UK: London, England},
+}
+
+@Article{elgeneidy2016tor,
+  author    = {El-Geneidy, Ahmed and Buliung, Ron and Diab, Ehab and van Lierop, Dea and Langlois, Myriam and Legrain, Alexander},
+  title     = {Non-stop equity: Assessing daily intersections between transit accessibility and social disparity across the Greater Toronto and Hamilton Area (GTHA)},
+  journal   = {Environment and Planning B: Planning and Design},
+  year      = {2016},
+  volume    = {43},
+  number    = {3},
+  pages     = {540--560},
+  publisher = {SAGE Publications Sage UK: London, England},
+}
+
+@Article{cullen1975,
+  author    = {Cullen, Ian and Godson, Vida},
+  title     = {Urban networks: the structure of activity patterns},
+  journal   = {Progress in planning},
+  year      = {1975},
+  volume    = {4},
+  pages     = {1--96},
+  publisher = {Elsevier},
+}
+
+@Article{wessel2017,
+  author    = {Wessel, Nate and Allen, Jeff and Farber, Steven},
+  title     = {Constructing a routable retrospective transit timetable from a real-time vehicle location feed and GTFS},
+  journal   = {Journal of Transport Geography},
+  year      = {2017},
+  volume    = {62},
+  pages     = {92--97},
+  publisher = {Elsevier},
+}
+
+@Article{widener2017,
+  author    = {Widener, Michael J and Minaker, Leia and Farber, Steven and Allen, Jeff and Vitali, Brigitte and Coleman, Paul C and Cook, Brian},
+  title     = {How do changes in the daily food and transportation environments affect grocery store accessibility?},
+  journal   = {Applied Geography},
+  year      = {2017},
+  volume    = {83},
+  pages     = {46--62},
+  publisher = {Elsevier},
+}
+
+@Article{boisjoly2016,
+  author    = {Boisjoly, Genevi{\`e}ve and El-Geneidy, Ahmed},
+  title     = {Daily fluctuations in transit and job availability: a comparative assessment of time-sensitive accessibility measures},
+  journal   = {Journal of transport geography},
+  year      = {2016},
+  volume    = {52},
+  pages     = {73--81},
+  publisher = {Elsevier},
+}
+
+@Book{simmons2013,
+  title     = {The Canadian urban system in 2011: Looking back and projecting forward},
+  publisher = {Cities Centre, University of Toronto Toronto, ON},
+  year      = {2013},
+  author    = {Simmons, Jim and Bourne, Larry S},
+}
+
+@Article{hansen1959,
+  author    = {Hansen, Walter G},
+  title     = {How accessibility shapes land use},
+  journal   = {Journal of the American Institute of planners},
+  year      = {1959},
+  volume    = {25},
+  number    = {2},
+  pages     = {73--76},
+  publisher = {Taylor \& Francis},
+}
+
+@Conference{litman2003,
+  author    = {Litman, Todd},
+  title     = {Social inclusion as a transport planning issue in {Canada}},
+  booktitle = {{FIA} Foundation {G7} Comparison Paper},
+  year      = {2003},
+  note      = {Presented at the European Transport Conference held in Strassbourg in June, 2003},
+}
+
+@Article{farber2017g,
+  author  = {Farber, Steven and Grandez, Maria},
+  title   = {Transit accessibility, land development and socioeconomic priority: A typology of planned station catchment areas in the Greater Toronto and Hamilton Area},
+  journal = {Journal of Transport and Land Use},
+  year    = {2017},
+  volume  = {10},
+  number  = {1},
+}
+
+@Article{osullivan2000,
+  author    = {O'Sullivan, David and Morrison, Alastair and Shearer, John},
+  title     = {Using desktop {GIS} for the investigation of accessibility by public transport: an isochrone approach},
+  journal   = {International Journal of Geographical Information Science},
+  year      = {2000},
+  volume    = {14},
+  number    = {1},
+  pages     = {85--104},
+  publisher = {Taylor \& Francis},
+}
+
+@Misc{sc2016cdic,
+  author = {{Statistics Canada}},
+  title  = {Census Dictionary},
+  year   = {2016},
+}
+
+@Article{manaugh2015,
+  author    = {Manaugh, Kevin and Badami, Madhav G and El-Geneidy, Ahmed M},
+  title     = {Integrating social equity into urban transportation planning: A critical evaluation of equity objectives and measures in transportation plans in North America},
+  journal   = {Transport policy},
+  year      = {2015},
+  volume    = {37},
+  pages     = {167--176},
+  publisher = {Elsevier},
+}
+
+@Article{pereira2017,
+  author    = {Pereira, Rafael HM and Schwanen, Tim and Banister, David},
+  title     = {Distributive justice and equity in transportation},
+  journal   = {Transport Reviews},
+  year      = {2017},
+  volume    = {37},
+  number    = {2},
+  pages     = {170--191},
+  publisher = {Taylor \& Francis},
+}
+
+@Misc{manaugh2012,
+  author    = {Manaugh, Kevin and El-Geneidy, A},
+  title     = {Who benefits from new transportation infrastructure? Using accessibility measures to evaluate social equity in transit provision},
+  year      = {2012},
+  journal   = {Accessibility and Transport Planning: Challenges for Europe and North America},
+  pages     = {1035--1053},
+  publisher = {Cheltenham, UK: Edward Elgar. Martens, K},
+}
+
+@Article{levitas2007,
+  author    = {Levitas, Ruth and Pantazis, Christina and Fahmy, Eldin and Gordon, David and Lloyd, Eva and Patsios, Demy},
+  title     = {The multi-dimensional analysis of social exclusion},
+  year      = {2007},
+  publisher = {University of Bristol},
+}
+
+@Misc{otp,
+  author = {{OpenTripPlanner}},
+  year   = {2017},
+  note   = {http://www.opentripplanner.org/},
+}
+
+@InProceedings{luxen-vetter-2011,
+  author    = {Luxen, Dennis and Vetter, Christian},
+  title     = {{Real-time routing with OpenStreetMap data}},
+  booktitle = {Proceedings of the 19th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems},
+  year      = {2011},
+  series    = {GIS '11},
+  pages     = {513--516},
+  address   = {New York, NY, USA},
+  publisher = {ACM},
+  doi       = {10.1145/2093973.2094062},
+}
+
+@Article{preston2007,
+  author    = {Preston, John and Raj{\'e}, Fiona},
+  title     = {Accessibility, mobility and transport-related social exclusion},
+  journal   = {Journal of Transport Geography},
+  year      = {2007},
+  volume    = {15},
+  number    = {3},
+  pages     = {151--160},
+  publisher = {Elsevier},
+}
+
+@Article{papa2014,
+  author    = {Papa, Enrica and Silva, Cecilia and Te Br{\"o}mmelstroet, Marco and Hull, Angela},
+  title     = {Accessibility instruments for planning practice: a review of European experiences},
+  journal   = {Journal of Tranport and Land Use},
+  year      = {2014},
+  volume    = {9},
+  number    = {3},
+  pages     = {1--20},
+  publisher = {University of Minnesota, Department of Civil Engineering},
+}
+
+@Article{wee2011,
+  author    = {Wee, Bert and Geurs, Karst},
+  title     = {Discussing equity and social exclusion in accessibility evaluations},
+  journal   = {European Journal of Transport and Infrastructure Research},
+  year      = {2011},
+  volume    = {11},
+  number    = {4},
+  publisher = {University of Delft},
+}
+
+@Article{karner2013,
+  author    = {Karner, Alex and Niemeier, Deb},
+  title     = {Civil rights guidance and equity analysis methods for regional transportation plans: a critical review of literature and practice},
+  journal   = {Journal of Transport Geography},
+  year      = {2013},
+  volume    = {33},
+  pages     = {126--134},
+  publisher = {Elsevier},
+}
+
+@Article{hulchanski2010,
+  author  = {Hulchanski, J David and others},
+  title   = {The three cities within Toronto},
+  journal = {Toronto: Cities Centre},
+  year    = {2010},
+}
+
+@Article{breau2015rising,
+  author    = {Breau, S{\'e}bastien},
+  title     = {Rising inequality in Canada: A regional perspective},
+  journal   = {Applied Geography},
+  year      = {2015},
+  volume    = {61},
+  pages     = {58--69},
+  publisher = {Elsevier},
+}
+
+@Article{paez2012,
+  author    = {P{\'a}ez, Antonio and Scott, Darren M and Morency, Catherine},
+  title     = {Measuring accessibility: positive and normative implementations of various accessibility indicators},
+  journal   = {Journal of Transport Geography},
+  year      = {2012},
+  volume    = {25},
+  pages     = {141--153},
+  publisher = {Elsevier},
+}
+
+@Article{garrett1999,
+  author  = {Garrett, Mark and Taylor, Brian},
+  title   = {Reconsidering social equity in public transit},
+  journal = {Berkeley Planning Journal},
+  year    = {1999},
+  volume  = {13},
+  number  = {1},
+}
+
+@Book{walks2013,
+  title     = {Income inequality and polarization in Canada's cities: An examination and new form of measurement},
+  publisher = {Cities Centre, University of Toronto},
+  year      = {2013},
+  author    = {Walks, Alan and Twigge-Molecey, Amy},
+}
+
+@Article{mccray2007,
+  author    = {McCray, Talia and Brais, Nicole},
+  title     = {Exploring the role of transportation in fostering social exclusion: The use of GIS to support qualitative data},
+  journal   = {Networks and Spatial Economics},
+  year      = {2007},
+  volume    = {7},
+  number    = {4},
+  pages     = {397--412},
+  publisher = {Springer},
+}
+
+@Article{paez2010,
+  author    = {P{\'a}ez, Antonio and Gertes Mercado, Ruben and Farber, Steven and Morency, Catherine and Roorda, Matthew},
+  title     = {Relative accessibility deprivation indicators for urban settings: definitions and application to food deserts in Montreal},
+  journal   = {Urban Studies},
+  year      = {2010},
+  volume    = {47},
+  number    = {7},
+  pages     = {1415--1438},
+  publisher = {SAGE Publications Sage UK: London, England},
+}
+
+@Article{roorda2010,
+  author    = {Roorda, Matthew J and P{\'a}ez, Antonio and Morency, Catherine and Mercado, Ruben and Farber, Steven},
+  title     = {Trip generation of vulnerable populations in three Canadian cities: a spatial ordered probit approach},
+  journal   = {Transportation},
+  year      = {2010},
+  volume    = {37},
+  number    = {3},
+  pages     = {525--548},
+  publisher = {Springer},
+}
+
+@Article{kwan2008,
+  author    = {Kwan, Mei-Po and Weber, Joe},
+  title     = {Scale and accessibility: Implications for the analysis of land use--travel interaction},
+  journal   = {Applied Geography},
+  year      = {2008},
+  volume    = {28},
+  number    = {2},
+  pages     = {110--123},
+  publisher = {Elsevier},
+}
+
+@Article{sanchez1999,
+  author    = {Sanchez, Thomas W},
+  title     = {The connection between public transit and employment: the cases of Portland and Atlanta},
+  journal   = {Journal of the American Planning Association},
+  year      = {1999},
+  volume    = {65},
+  number    = {3},
+  pages     = {284--296},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{cervero1997,
+  author    = {Cervero, Robert and others},
+  title     = {Paradigm shift: from automobility to accessibility planning},
+  journal   = {Urban Futures (Canberra)},
+  year      = {1997},
+  number    = {22},
+  pages     = {9},
+  publisher = {Housing and Urban Policy Section of the Dept. of Industry, Technology and Commerce},
+}
+
+@Article{mavoa2012,
+  author    = {Mavoa, Suzanne and Witten, Karen and McCreanor, Tim and O’sullivan, David},
+  title     = {GIS based destination accessibility via public transit and walking in Auckland, New Zealand},
+  journal   = {Journal of Transport Geography},
+  year      = {2012},
+  volume    = {20},
+  number    = {1},
+  pages     = {15--22},
+  publisher = {Elsevier},
+}
+
+@Article{conway2017,
+  author    = {Conway, Matthew Wigginton and Byrd, Andrew and van der Linden, Marco},
+  title     = {Evidence-Based Transit and Land Use Sketch Planning Using Interactive Accessibility Methods on Combined Schedule and Headway-Based Networks},
+  journal   = {Transportation Research Record: Journal of the Transportation Research Board},
+  year      = {2017},
+  number    = {2653},
+  pages     = {45--53},
+  publisher = {Transportation Research Board of the National Academies},
+}
+
+@Article{martens2012justice,
+  author    = {Martens, Karel and Golub, Aaron and Robinson, Glenn},
+  title     = {A justice-theoretic approach to the distribution of transportation benefits: Implications for transportation planning practice in the United States},
+  journal   = {Transportation research part A: policy and practice},
+  year      = {2012},
+  volume    = {46},
+  number    = {4},
+  pages     = {684--695},
+  publisher = {Elsevier},
+}
+
+@Article{welch2013,
+  author    = {Welch, Timothy F and Mishra, Sabyasachee},
+  title     = {A measure of equity for public transit connectivity},
+  journal   = {Journal of Transport Geography},
+  year      = {2013},
+  volume    = {33},
+  pages     = {29--41},
+  publisher = {Elsevier},
+}
+
+@Article{litman2002,
+  author  = {Litman, Todd},
+  title   = {Evaluating transportation equity},
+  journal = {World Transport Policy \& Practice},
+  year    = {2002},
+  volume  = {8},
+  number  = {2},
+  pages   = {50--65},
+}
+
+@Article{benenson2011,
+  author    = {Benenson, Itzhak and Martens, Karel and Rof{\'e}, Yodan and Kwartler, Ariela},
+  title     = {Public transport versus private car GIS-based estimation of accessibility applied to the Tel Aviv metropolitan area},
+  journal   = {The Annals of Regional Science},
+  year      = {2011},
+  volume    = {47},
+  number    = {3},
+  pages     = {499--515},
+  publisher = {Springer},
+}
+
+@Article{seu2003,
+  author = {{Social Exclusion Unit}},
+  title  = {Making the connections: final report on transport and social exclusion: summary},
+  year   = {2003},
+}
+
+@Article{golub2014,
+  author    = {Golub, Aaron and Martens, Karel},
+  title     = {Using principles of justice to assess the modal equity of regional transportation plans},
+  journal   = {Journal of Transport Geography},
+  year      = {2014},
+  volume    = {41},
+  pages     = {10--20},
+  publisher = {Elsevier},
+}
+
+@Article{delbosc2011,
+  author    = {Delbosc, Alexa and Currie, Graham},
+  title     = {The spatial context of transport disadvantage, social exclusion and well-being},
+  journal   = {Journal of Transport Geography},
+  year      = {2011},
+  volume    = {19},
+  number    = {6},
+  pages     = {1130--1137},
+  publisher = {Elsevier},
+}
+
+@Article{casas2007,
+  author    = {Casas, Irene},
+  title     = {Social exclusion and the disabled: An accessibility approach∗},
+  journal   = {The Professional Geographer},
+  year      = {2007},
+  volume    = {59},
+  number    = {4},
+  pages     = {463--477},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{spinney2009,
+  author    = {Spinney, Jamie EL and Scott, Darren M and Newbold, K Bruce},
+  title     = {Transport mobility benefits and quality of life: A time-use perspective of elderly Canadians},
+  journal   = {Transport Policy},
+  year      = {2009},
+  volume    = {16},
+  number    = {1},
+  pages     = {1--11},
+  publisher = {Elsevier},
+}
+
+@Article{paez2009,
+  author  = {Paez, Antonio and Mercado, Ruben G and Farber, Steven and Morency, Catherine and Roorda, M},
+  title   = {Mobility and social exclusion in Canadian communities: an empirical investigation of opportunity access and deprivation from the perspective of vulnerable groups},
+  journal = {Policy Research Directorate Strategic Policy and Research, Toronto},
+  year    = {2009},
+}
+
+@Article{waltzer1983,
+  author  = {Walzer, Michael},
+  title   = {Spheres of justice: A defense of pluralism and equality},
+  journal = {New York: Basic Book},
+  year    = {1983},
+}
+
+@Book{rawls1971,
+  title     = {A theory of justice},
+  publisher = {Harvard university press},
+  year      = {1971},
+  author    = {Rawls, John},
+}
+
+@Article{fransen2015,
+  author    = {Fransen, Koos and Neutens, Tijs and De Maeyer, Philippe and Deruyter, Greet},
+  title     = {A commuter-based two-step floating catchment area method for measuring spatial accessibility of daycare centers},
+  journal   = {Health \& place},
+  year      = {2015},
+  volume    = {32},
+  pages     = {65--73},
+  publisher = {Elsevier},
+}
+
+@Article{langford2012,
+  author    = {Langford, Mitchel and Fry, Richard and Higgs, Gary},
+  title     = {Measuring transit system accessibility using a modified two-step floating catchment technique},
+  journal   = {International Journal of Geographical Information Science},
+  year      = {2012},
+  volume    = {26},
+  number    = {2},
+  pages     = {193--214},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{huff1963,
+  author    = {Huff, David L},
+  title     = {A probabilistic analysis of shopping center trade areas},
+  journal   = {Land economics},
+  year      = {1963},
+  volume    = {39},
+  number    = {1},
+  pages     = {81--90},
+  publisher = {JSTOR},
+}
+
+@Article{bertolaccini2013,
+  author    = {Bertolaccini, Kelly and Lownes, Nicholas},
+  title     = {Effects of scale and boundary selection in assessing equity of transit supply distribution},
+  journal   = {Transportation Research Record: Journal of the Transportation Research Board},
+  year      = {2013},
+  number    = {2350},
+  pages     = {58--64},
+  publisher = {Transportation Research Board of the National Academies},
+}
+
+@Article{lo2011,
+  author    = {Lo, Lucia and Shalaby, Amir and Alshalalfah, Baha},
+  title     = {Relationship between immigrant settlement patterns and transit use in the Greater Toronto Area},
+  journal   = {Journal of Urban Planning and Development},
+  year      = {2011},
+  volume    = {137},
+  number    = {4},
+  pages     = {470--476},
+  publisher = {American Society of Civil Engineers},
+}
+
+@Article{luo2003,
+  author    = {Luo, Wei and Wang, Fahui},
+  title     = {Measures of spatial accessibility to health care in a GIS environment: synthesis and a case study in the Chicago region},
+  journal   = {Environment and Planning B: Planning and Design},
+  year      = {2003},
+  volume    = {30},
+  number    = {6},
+  pages     = {865--884},
+  publisher = {SAGE Publications Sage UK: London, England},
+}
+
+@Article{kwan1998,
+  author    = {Kwan, Mei-Po},
+  title     = {Space-time and integral measures of individual accessibility: a comparative analysis using a point-based framework},
+  journal   = {Geographical analysis},
+  year      = {1998},
+  volume    = {30},
+  number    = {3},
+  pages     = {191--216},
+  publisher = {Wiley Online Library},
+}
+
+@Article{pirie1979,
+  author    = {Pirie, Gordon H},
+  title     = {Measuring accessibility: a review and proposal},
+  journal   = {Environment and Planning A},
+  year      = {1979},
+  volume    = {11},
+  number    = {3},
+  pages     = {299--312},
+  publisher = {SAGE Publications Sage UK: London, England},
+}
+
+@Misc{canbudget2017,
+  author = {{Government of Canada}},
+  title  = {Budget 2017: Building A Strong Middle Class},
+  year   = {2017},
+  url    = {https://www.budget.gc.ca/2017/docs/plan/budget-2017-en.pdf},
+}
+
+@Article{farber2014a,
+  author    = {Farber, Steven and Bartholomew, Keith and Li, Xiao and P{\'a}ez, Antonio and Habib, Khandker M Nurul},
+  title     = {Assessing social equity in distance based transit fares using a model of travel behavior},
+  journal   = {Transportation Research Part A: Policy and Practice},
+  year      = {2014},
+  volume    = {67},
+  pages     = {291--303},
+  publisher = {Elsevier},
+}
+
+@Article{farber2018,
+  author  = {Farber, Steven and Mifsud, Anika and Widener, Michael J and Newbold, K Bruce and Allen, Jeff and Moniruzzaman, Md},
+  title   = {Transportation Barriers to Syrian Newcomer Participation and Settlement in Durham Region},
+  journal = {Journal of Transport Geography},
+  year    = {2018},
+}
+
+@Article{ades2016poverty,
+  author  = {Ades, Josefina and Apparicio, Philippe and S{\'e}guin, Anne-Marie},
+  title   = {Is poverty concentration expanding to the suburbs? Analyzing the intra-metropolitan poverty distribution and its change in Montreal, Toronto and Vancouver},
+  journal = {Canadian Journal of Regional Science/Revue canadienne des sciences r{\'e}gionales},
+  year    = {2016},
+  volume  = {39},
+  number  = {1/3},
+  pages   = {23--37},
+}
+
+@Article{guy1983,
+  author    = {Guy, Clifford M},
+  title     = {The assessment of access to local shopping opportunities: a comparison of accessibility measures},
+  journal   = {Environment and Planning B: Planning and Design},
+  year      = {1983},
+  volume    = {10},
+  number    = {2},
+  pages     = {219--237},
+  publisher = {SAGE Publications Sage UK: London, England},
+}
+
+@Article{moniruzzaman2012,
+  author    = {Moniruzzaman, Md and P{\'a}ez, Antonio},
+  title     = {Accessibility to transit, by transit, and mode share: application of a logistic model with spatial filters},
+  journal   = {Journal of Transport Geography},
+  year      = {2012},
+  volume    = {24},
+  pages     = {198--205},
+  publisher = {Elsevier},
+}
+
+@Article{bolton2012,
+  author    = {Bolton, Kenyon and Breau, S{\'e}bastien},
+  title     = {Growing unequal? Changes in the distribution of earnings across Canadian cities},
+  journal   = {Urban Studies},
+  year      = {2012},
+  volume    = {49},
+  number    = {6},
+  pages     = {1377--1396},
+  publisher = {SAGE Publications Sage UK: London, England},
+}
+
+@Article{turcotte2005,
+  author    = {Turcotte, Martin},
+  title     = {The time it takes to get to work and back},
+  journal   = {Statistics Canada},
+  year      = {2005},
+  publisher = {Citeseer},
+}
+
+@Article{madden1985,
+  author    = {Madden, Janice Fanning},
+  title     = {Urban wage gradients: Empirical evidence},
+  journal   = {Journal of Urban Economics},
+  year      = {1985},
+  volume    = {18},
+  number    = {3},
+  pages     = {291--301},
+  publisher = {Elsevier},
+}
+
+@Article{sanchez2004,
+  author    = {Sanchez, Thomas W and Shen, Qing and Peng, Zhong-Ren},
+  title     = {Transit mobility, jobs access and low-income labour participation in US metropolitan areas},
+  journal   = {Urban Studies},
+  year      = {2004},
+  volume    = {41},
+  number    = {7},
+  pages     = {1313--1331},
+  publisher = {Sage Publications Sage UK: London, England},
+}
+
+@Article{shen1998,
+  author    = {Shen, Qing},
+  title     = {Location characteristics of inner-city neighborhoods and employment accessibility of low-wage workers},
+  journal   = {Environment and planning B: Planning and Design},
+  year      = {1998},
+  volume    = {25},
+  number    = {3},
+  pages     = {345--365},
+  publisher = {SAGE Publications Sage UK: London, England},
+}
+
+@Article{owen2014,
+  author    = {Owen, Andrew and Levinson, David},
+  title     = {Access Across America: Transit 2014},
+  year      = {2014},
+  publisher = {Center for Transportation Studies, University of Minnesota},
+}
+
+@Article{aaslund2009,
+  author    = {{\AA}slund, Olof and {\"O}sth, John and Zenou, Yves},
+  title     = {How important is access to jobs? Old question—improved answer},
+  journal   = {Journal of Economic Geography},
+  year      = {2009},
+  volume    = {10},
+  number    = {3},
+  pages     = {389--422},
+  publisher = {Oxford University Press},
+}
+
+@Article{allard2002,
+  author    = {Allard, Scott W and Danziger, Sheldon},
+  title     = {Proximity and opportunity: How residence and race affect the employment of welfare recipients},
+  journal   = {Housing Policy Debate},
+  year      = {2002},
+  volume    = {13},
+  number    = {4},
+  pages     = {675--700},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{delamater2013,
+  author    = {Delamater, Paul L},
+  title     = {Spatial accessibility in suboptimally configured health care systems: a modified two-step floating catchment area (M2SFCA) metric},
+  journal   = {Health \& place},
+  year      = {2013},
+  volume    = {24},
+  pages     = {30--43},
+  publisher = {Elsevier},
+}
+
+@Article{weibull1976,
+  author    = {Weibull, J{\"o}rgen W},
+  title     = {An axiomatic approach to the measurement of accessibility},
+  journal   = {Regional science and urban economics},
+  year      = {1976},
+  volume    = {6},
+  number    = {4},
+  pages     = {357--379},
+  publisher = {Elsevier},
+}
+
+@Article{kawabata2006,
+  author    = {Kawabata, Mizuki and Shen, Qing},
+  title     = {Job accessibility as an indicator of auto-oriented urban structure: a comparison of Boston and Los Angeles with Tokyo},
+  journal   = {Environment and Planning B: Planning and Design},
+  year      = {2006},
+  volume    = {33},
+  number    = {1},
+  pages     = {115--130},
+  publisher = {SAGE Publications Sage UK: London, England},
+}
+
+@Book{fotheringham1989,
+  title     = {Spatial interaction models: formulations and applications},
+  publisher = {Kluwer Academic Publishers Dordrecht},
+  year      = {1989},
+  author    = {Fotheringham, A Stewart and O'Kelly, Morton E},
+  volume    = {1},
+}
+
+@Article{geurs2003,
+  author    = {Geurs, Karst T and van Eck, Jan R Ritsema},
+  title     = {Evaluation of accessibility impacts of land-use scenarios: the implications of job competition, land-use, and infrastructure developments for the Netherlands},
+  journal   = {Environment and Planning B: Planning and Design},
+  year      = {2003},
+  volume    = {30},
+  number    = {1},
+  pages     = {69--87},
+  publisher = {SAGE Publications Sage UK: London, England},
+}
+
+@Article{merlin2017,
+  author    = {Merlin, Louis A and Hu, Lingqian},
+  title     = {Does competition matter in measures of job accessibility? Explaining employment in Los Angeles},
+  journal   = {Journal of Transport Geography},
+  year      = {2017},
+  volume    = {64},
+  pages     = {77--88},
+  publisher = {Elsevier},
+}
+
+@Article{wilson1971,
+  author    = {Wilson, Alan Geoffrey},
+  title     = {A family of spatial interaction models, and associated developments},
+  journal   = {Environment and Planning A},
+  year      = {1971},
+  volume    = {3},
+  number    = {1},
+  pages     = {1--32},
+  publisher = {SAGE Publications Sage UK: London, England},
+}
+
+@Article{wang2002,
+  author    = {Wang, Fahui and Minor, W William},
+  title     = {Where the jobs are: employment access and crime patterns in Cleveland},
+  journal   = {Annals of the Association of American Geographers},
+  year      = {2002},
+  volume    = {92},
+  number    = {3},
+  pages     = {435--450},
+  publisher = {Taylor \& Francis},
+}
+
+@TechReport{metrolinx2008,
+  author = {Metrolinx},
+  title  = {Costs of Road Congestion in the Greater Toronto and Hamilton Area: Impact and Cost Benefit Analysis of the Metrolinx Draft Regional Transportation Plan},
+  year   = {2008},
+}
+
+@TechReport{cong2012,
+  author      = {{Urban Transportation Task Force}},
+  title       = {The High Cost of Congestion in Canadian Cities},
+  institution = {Council of Ministers Responsible for Transportation and Highway Safety},
+  year        = {2012},
+}
+
+@Misc{tomtom2018,
+  author = {TomTom},
+  title  = {{TomTom Traffic Index}},
+  year   = {2018},
+  url    = {https://www.tomtom.com/en_gb/trafficindex/},
+}
+
+@Article{rau2012,
+  author    = {Rau, Henrike and Vega, Amaya},
+  title     = {Spatial (im) mobility and accessibility in Ireland: Implications for transport policy},
+  journal   = {Growth and Change},
+  year      = {2012},
+  volume    = {43},
+  number    = {4},
+  pages     = {667--696},
+  publisher = {Wiley Online Library},
+}
+
+@Article{owen2018,
+  author  = {Owen, Andrew and Murphy, Brendan},
+  title   = {Temporal Sampling and Service Frequency Harmonics in Transit Accessibility Evaluation},
+  journal = {TRB Annual Meeting},
+  year    = {2018},
+}
+
+@Article{sc2016,
+  author = {{Statistics Canada}},
+  title  = {Census of Population},
+  year   = {2016},
+}
+
+@Article{grengs2010b,
+  author    = {Grengs, Joe},
+  title     = {Job accessibility and the modal mismatch in Detroit},
+  journal   = {Journal of Transport Geography},
+  year      = {2010},
+  volume    = {18},
+  number    = {1},
+  pages     = {42--54},
+  publisher = {Elsevier},
+}
+
+@Article{lucas2003,
+  author    = {Lucas, Marilyn T and Nicholson, Charles F},
+  title     = {Subsidized vehicle acquisition and earned income in the transition from welfare to work},
+  journal   = {Transportation},
+  year      = {2003},
+  volume    = {30},
+  number    = {4},
+  pages     = {483--501},
+  publisher = {Springer},
+}
+
+@Article{blumenberg2004,
+  author    = {Blumenberg, Evelyn and Manville, Michael},
+  title     = {Beyond the spatial mismatch: welfare recipients and transportation policy},
+  journal   = {Journal of Planning Literature},
+  year      = {2004},
+  volume    = {19},
+  number    = {2},
+  pages     = {182--205},
+  publisher = {Sage Publications Sage CA: Thousand Oaks, CA},
+}
+
+@Article{widener2017c,
+  author    = {Widener, Michael J},
+  title     = {Comparing measures of accessibility to urban supermarkets for transit and auto users},
+  journal   = {The Professional Geographer},
+  year      = {2017},
+  volume    = {69},
+  number    = {3},
+  pages     = {362--371},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{parks2004,
+  author    = {Parks, Virginia},
+  title     = {Access to work: The effects of spatial and social accessibility on unemployment for native-born black and immigrant women in Los Angeles},
+  journal   = {Economic Geography},
+  year      = {2004},
+  volume    = {80},
+  number    = {2},
+  pages     = {141--172},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{sultana2005,
+  author    = {Sultana, Selima and Weber, Joe},
+  title     = {Journey-to-Work Patterns in the Age of Sprawl: Evidence from Two Midsize Southern Metropolitan Areas},
+  journal   = {The Professional Geographer},
+  year      = {2005},
+  volume    = {59},
+  number    = {2},
+  pages     = {193--208},
+  publisher = {Wiley Online Library},
+}
+
+@Article{gottlieb2001,
+  author    = {Gottlieb, Paul D and Lentnek, Barry},
+  title     = {Spatial mismatch is not always a central-city problem: an analysis of commuting behaviour in Cleveland, Ohio, and its suburbs},
+  journal   = {Urban Studies},
+  year      = {2001},
+  volume    = {38},
+  number    = {7},
+  pages     = {1161--1186},
+  publisher = {Sage Publications Sage UK: London, England},
+}
+
+@Article{taylor1995,
+  author    = {Taylor, Brian D and Ong, Paul M},
+  title     = {Spatial mismatch or automobile mismatch? An examination of race, residence and commuting in US metropolitan areas},
+  journal   = {Urban studies},
+  year      = {1995},
+  volume    = {32},
+  number    = {9},
+  pages     = {1453--1473},
+  publisher = {Sage Publications Sage UK: London, England},
+}
+
+@Article{delbosc2011c,
+  author    = {Delbosc, Alexa and Currie, Graham},
+  title     = {Using Lorenz curves to assess public transport equity},
+  journal   = {Journal of Transport Geography},
+  year      = {2011},
+  volume    = {19},
+  number    = {6},
+  pages     = {1252--1259},
+  publisher = {Elsevier},
+}
+
+@Article{kwan1999,
+  author    = {Kwan, Mei-Po},
+  title     = {Gender and individual access to urban opportunities: a study using space--time measures},
+  journal   = {The Professional Geographer},
+  year      = {1999},
+  volume    = {51},
+  number    = {2},
+  pages     = {210--227},
+  publisher = {Wiley Online Library},
+}
+
+@Book{hanson1995,
+  title     = {Gender, work, and space},
+  publisher = {Psychology Press},
+  year      = {1995},
+  author    = {Hanson, Susan and Pratt, Geraldine},
+}
+
+@Article{blumenberg2008,
+  author    = {Blumenberg, Evelyn},
+  title     = {Immigrants and transport barriers to employment: The case of Southeast Asian welfare recipients in California},
+  journal   = {Transport Policy},
+  year      = {2008},
+  volume    = {15},
+  number    = {1},
+  pages     = {33--42},
+  publisher = {Elsevier},
+}
+
+@Article{currie2010,
+  author    = {Currie, Graham},
+  title     = {Quantifying spatial gaps in public transport supply based on social needs},
+  journal   = {Journal of Transport Geography},
+  year      = {2010},
+  volume    = {18},
+  number    = {1},
+  pages     = {31--41},
+  publisher = {Elsevier},
+}
+
+@Article{kawabata2007,
+  author    = {Kawabata, Mizuki and Shen, Qing},
+  title     = {Commuting inequality between cars and public transit: The case of the San Francisco Bay Area, 1990-2000},
+  journal   = {Urban Studies},
+  year      = {2007},
+  volume    = {44},
+  number    = {9},
+  pages     = {1759--1780},
+  publisher = {Sage Publications Sage UK: London, England},
+}
+
+@Book{lynch1984,
+  title     = {Good city form},
+  publisher = {MIT press},
+  year      = {1984},
+  author    = {Lynch, Kevin},
+}
+
+@Article{holzer1991,
+  author    = {Holzer, Harry J},
+  title     = {The spatial mismatch hypothesis: What has the evidence shown?},
+  journal   = {Urban Studies},
+  year      = {1991},
+  volume    = {28},
+  number    = {1},
+  pages     = {105--122},
+  publisher = {Sage Publications Sage UK: London, England},
+}
+
+@Article{ades2012,
+  author    = {Ades, Josefina and Apparicio, Philippe and S{\'e}guin, Anne-Marie},
+  title     = {Are new patterns of low-income distribution emerging in Canadian metropolitan areas?},
+  journal   = {The Canadian Geographer/le g{\'e}ographe canadien},
+  year      = {2012},
+  volume    = {56},
+  number    = {3},
+  pages     = {339--361},
+  publisher = {Wiley Online Library},
+}
+
+@InCollection{mcnally2007,
+  author    = {McNally, Michael G},
+  title     = {The four-step model},
+  booktitle = {Handbook of Transport Modelling: 2nd Edition},
+  publisher = {Emerald Group Publishing Limited},
+  year      = {2007},
+  pages     = {35--53},
+}
+
+@Article{macdonald2012,
+  author    = {Macdonald, Sara and Keil, Roger},
+  title     = {The Ontario greenbelt: shifting the scales of the sustainability fix?},
+  journal   = {The Professional Geographer},
+  year      = {2012},
+  volume    = {64},
+  number    = {1},
+  pages     = {125--145},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{innisfil2017,
+  author  = {{Town of Innisfil}},
+  title   = {{Demand-Responsive Transit Implementation - Stage 1}},
+  journal = {{Town of Innisfil Staff Report}},
+  year    = {2017},
+}
+
+@Article{mageean2003,
+  author    = {Mageean, Jenny and Nelson, John D},
+  title     = {The evaluation of demand responsive transport services in Europe},
+  journal   = {Journal of Transport Geography},
+  year      = {2003},
+  volume    = {11},
+  number    = {4},
+  pages     = {255--270},
+  publisher = {Elsevier},
+}
+
+@Article{hanson2004,
+  author    = {Hanson, Susan},
+  title     = {The context of urban travel},
+  journal   = {The geography of urban transportation},
+  year      = {2004},
+  pages     = {3--29},
+  publisher = {Guilford Press New York},
+}
+
+@Book{bernick1997,
+  title  = {Transit villages in the 21st century},
+  year   = {1997},
+  author = {Bernick, Michael and Cervero, Robert},
+}
+
+@Article{knight2004,
+  author    = {Knight, Brian},
+  title     = {Parochial interests and the centralized provision of local public goods: evidence from congressional voting on transportation projects},
+  journal   = {Journal of Public Economics},
+  year      = {2004},
+  volume    = {88},
+  number    = {3-4},
+  pages     = {845--866},
+  publisher = {Elsevier},
+}
+
+@Article{delafontaine2011,
+  author    = {Delafontaine, Matthias and Neutens, Tijs and Schwanen, Tim and Van de Weghe, Nico},
+  title     = {The impact of opening hours on the equity of individual space--time accessibility},
+  journal   = {Computers, environment and urban systems},
+  year      = {2011},
+  volume    = {35},
+  number    = {4},
+  pages     = {276--288},
+  publisher = {Elsevier},
+}
+
+@Article{miller2007,
+  author    = {Miller},
+  title     = {Place-based versus people-based geographic information science},
+  journal   = {Geography Compass},
+  year      = {2007},
+  volume    = {1},
+  number    = {3},
+  pages     = {503--535},
+  publisher = {Wiley Online Library},
+}
+
+@Article{paez2013,
+  author    = {P{\'a}ez, Antonio and Farber, Steven and Mercado, Ruben and Roorda, Matthew and Morency, Catherine},
+  title     = {Jobs and the single parent: An analysis of accessibility to employment in Toronto},
+  journal   = {Urban Geography},
+  year      = {2013},
+  volume    = {34},
+  number    = {6},
+  pages     = {815--842},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{turcotte2011,
+  author  = {Turcotte, Martin},
+  title   = {Commuting to work: Results of the 2010 general social survey},
+  journal = {Canadian Social Trends},
+  year    = {2011},
+  volume  = {92},
+  number  = {August},
+  pages   = {25--36},
+}
+
+@Article{higgins2017,
+  author    = {Higgins, Christopher D and Sweet, Matthias N and Kanaroglou, Pavlos S},
+  title     = {All minutes are not equal: travel time and the effects of congestion on commute satisfaction in Canadian cities},
+  journal   = {Transportation},
+  year      = {2017},
+  pages     = {1--20},
+  publisher = {Springer},
+}
+
+@Article{sc2015,
+  author = {{Statistics Canada}},
+  title  = {General Social Survey},
+  year   = {2015},
+}
+
+@Article{jara1989,
+  author    = {Jara-D{\'\i}az, Sergio R and Videla, Jorge},
+  title     = {Detection of income effect in mode choice: theory and application},
+  journal   = {Transportation Research Part B: Methodological},
+  year      = {1989},
+  volume    = {23},
+  number    = {6},
+  pages     = {393--400},
+  publisher = {Elsevier},
+}
+
+@Book{walker2012,
+  title     = {Human transit: How clearer thinking about public transit can enrich our communities and our lives},
+  publisher = {Island Press},
+  year      = {2012},
+  author    = {Walker, Jarrett},
+}
+
+@Book{blais2015,
+  title     = {Planning for Prosperity: Globalization, Competitivess, and the Growth Plan for the Greater Golden Horseshoe},
+  publisher = {Neptis Foundation},
+  year      = {2015},
+  author    = {Blais, Pamela},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
